@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.pkl
+venv/
+node_modules/
+.next/
+dist/
+.DS_Store
+fix.js
+fix.cjs
+*.bak
