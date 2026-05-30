@@ -63,6 +63,13 @@ print(f"Ready. {len(events_df)} events loaded.")
 
 # ── App ───────────────────────────────────────────────────────────────────────
 app = FastAPI(title="OverReact API", version="1.0.0")
+@app.get("/")
+def root():
+    return {
+        "status": "online",
+        "project": "OverReact",
+        "docs": "/docs"
+    }
 
 app.add_middleware(
     CORSMiddleware,
