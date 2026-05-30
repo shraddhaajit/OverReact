@@ -1,0 +1,5387 @@
+{
+  "JSWSTEEL.NS_2022-01-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "ULTRACEMCO.NS_2022-01-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "SHRIRAMFIN.NS_2022-01-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "WIPRO.NS_2022-01-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "TATASTEEL.NS_2022-01-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "JSWSTEEL.NS_2022-01-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "WIPRO.NS_2022-01-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "ASIANPAINT.NS_2022-01-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "AXISBANK.NS_2022-01-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "HCLTECH.NS_2022-01-17": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "BAJAJ-AUTO.NS_2022-01-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "TATASTEEL.NS_2022-01-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "JSWSTEEL.NS_2022-01-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "ULTRACEMCO.NS_2022-01-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "GRASIM.NS_2022-01-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "EICHERMOT.NS_2022-01-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "SHRIRAMFIN.NS_2022-01-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "MARUTI.NS_2022-01-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "APOLLOHOSP.NS_2022-01-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "BEL.NS_2022-01-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "HCLTECH.NS_2022-01-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "TATACONSUM.NS_2022-01-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "ASIANPAINT.NS_2022-01-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "INFY.NS_2022-01-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "HINDUNILVR.NS_2022-01-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "DIVISLAB.NS_2022-01-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "BAJAJ-AUTO.NS_2022-01-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "BAJAJFINSV.NS_2022-01-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "TATASTEEL.NS_2022-01-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "BHARTIARTL.NS_2022-01-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "COALINDIA.NS_2022-01-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "INDUSINDBK.NS_2022-01-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "BAJAJFINSV.NS_2022-01-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "BPCL.NS_2022-01-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "BEL.NS_2022-01-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "DIVISLAB.NS_2022-01-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "JSWSTEEL.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "LT.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "DRREDDY.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "BAJAJFINSV.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "ASIANPAINT.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "KOTAKBANK.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "BAJFINANCE.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "HCLTECH.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "TITAN.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "TATASTEEL.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "ULTRACEMCO.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "WIPRO.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "ADANIPORTS.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "INFY.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (403 PERMISSION_DENIED. {'error': {'code')"
+  },
+  "ADANIENT.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-24"
+  },
+  "RELIANCE.NS_2022-01-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices plummeted due to COVID-19 pandemic concerns"
+  },
+  "TRENT.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-24"
+  },
+  "BRITANNIA.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-24"
+  },
+  "GRASIM.NS_2022-01-24": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Grasim Industries reported disappointing Q3FY22 earnings results"
+  },
+  "TATACONSUM.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-24"
+  },
+  "SHRIRAMFIN.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-24"
+  },
+  "BEL.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-24"
+  },
+  "APOLLOHOSP.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-24"
+  },
+  "HINDALCO.NS_2022-01-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising commodity prices affected Hindalco"
+  },
+  "DIVISLAB.NS_2022-01-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-24"
+  },
+  "TRENT.NS_2022-01-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-25"
+  },
+  "TITAN.NS_2022-01-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TCS.NS_2022-01-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DIVISLAB.NS_2022-01-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-27"
+  },
+  "WIPRO.NS_2022-01-27": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q3FY22 earnings missed market expectations, causing the decline"
+  },
+  "APOLLOHOSP.NS_2022-01-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-27"
+  },
+  "INFY.NS_2022-01-27": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q3FY22 earnings missed estimates, impacting stock price"
+  },
+  "ADANIENT.NS_2022-01-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-27"
+  },
+  "DRREDDY.NS_2022-01-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TRENT.NS_2022-01-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-01-27"
+  },
+  "HCLTECH.NS_2022-01-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "MARUTI.NS_2022-01-28": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 pandemic"
+  },
+  "INDUSINDBK.NS_2022-01-31": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 pandemic"
+  },
+  "BPCL.NS_2022-02-01": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices dropped due to OPEC+ production increase"
+  },
+  "INFY.NS_2022-02-03": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q3 FY22 earnings missed market expectations, impacting stock price"
+  },
+  "GRASIM.NS_2022-02-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-03"
+  },
+  "SBILIFE.NS_2022-02-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-03"
+  },
+  "TITAN.NS_2022-02-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-07"
+  },
+  "KOTAKBANK.NS_2022-02-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian market volatility due to global economic concerns"
+  },
+  "BRITANNIA.NS_2022-02-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-07"
+  },
+  "BAJAJFINSV.NS_2022-02-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJAJ-AUTO.NS_2022-02-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 pandemic"
+  },
+  "TATACONSUM.NS_2022-02-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "WIPRO.NS_2022-02-07": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q3 FY22 earnings missed market expectations, leading to decline"
+  },
+  "BAJFINANCE.NS_2022-02-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-07"
+  },
+  "HEROMOTOCO.NS_2022-02-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCBANK.NS_2022-02-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government"
+  },
+  "LT.NS_2022-02-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-07"
+  },
+  "HDFCLIFE.NS_2022-02-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "APOLLOHOSP.NS_2022-02-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-07"
+  },
+  "ONGC.NS_2022-02-08": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices dropped due to OPEC+ production increase"
+  },
+  "GRASIM.NS_2022-02-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-11"
+  },
+  "INFY.NS_2022-02-11": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q3 FY22 earnings missed estimates due to higher expenses"
+  },
+  "MARUTI.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 pandemic"
+  },
+  "TRENT.NS_2022-02-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-14"
+  },
+  "SHRIRAMFIN.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 pandemic"
+  },
+  "KOTAKBANK.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government."
+  },
+  "AXISBANK.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee depreciated sharply against US dollar on 14th February 2022"
+  },
+  "LT.NS_2022-02-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DRREDDY.NS_2022-02-14": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q3FY22 earnings missed estimates due to higher expenses"
+  },
+  "ULTRACEMCO.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 pandemic"
+  },
+  "COALINDIA.NS_2022-02-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJAJFINSV.NS_2022-02-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "GRASIM.NS_2022-02-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-14"
+  },
+  "HEROMOTOCO.NS_2022-02-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-02-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates affected banking stocks"
+  },
+  "BAJFINANCE.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising interest rates and inflation in India"
+  },
+  "SBILIFE.NS_2022-02-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCLIFE.NS_2022-02-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "POWERGRID.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over India's economic growth due to Omicron variant spread"
+  },
+  "NTPC.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 pandemic"
+  },
+  "ADANIPORTS.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 pandemic impact"
+  },
+  "ADANIENT.NS_2022-02-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-14"
+  },
+  "WIPRO.NS_2022-02-14": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q3 FY22 earnings missed market expectations, causing the decline"
+  },
+  "JSWSTEEL.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 pandemic"
+  },
+  "ITC.NS_2022-02-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-14"
+  },
+  "TATASTEEL.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "BHARTIARTL.NS_2022-02-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBIN.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking sector"
+  },
+  "ICICIBANK.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government"
+  },
+  "HDFCBANK.NS_2022-02-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government"
+  },
+  "CIPLA.NS_2022-02-15": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of single-day decline"
+  },
+  "HINDALCO.NS_2022-02-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2022-02-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2022-02-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BPCL.NS_2022-02-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices surged due to geopolitical tensions in Ukraine"
+  },
+  "TATASTEEL.NS_2022-02-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "SBIN.NS_2022-02-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking sector"
+  },
+  "SBILIFE.NS_2022-02-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-22"
+  },
+  "TCS.NS_2022-02-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ONGC.NS_2022-02-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to rising US crude oil inventories"
+  },
+  "SBILIFE.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCBANK.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India weighed on markets"
+  },
+  "APOLLOHOSP.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "JSWSTEEL.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns due to COVID-19 pandemic impact"
+  },
+  "ASIANPAINT.NS_2022-02-24": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Asian Paints reported lower-than-expected quarterly earnings"
+  },
+  "HDFCLIFE.NS_2022-02-24": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "HDFC Life Insurance reported lower-than-expected quarterly earnings"
+  },
+  "TATACONSUM.NS_2022-02-24": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Tata Consumer Products reported disappointing quarterly earnings"
+  },
+  "AXISBANK.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government"
+  },
+  "TATASTEEL.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "ULTRACEMCO.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 pandemic"
+  },
+  "INFY.NS_2022-02-24": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q3 FY22 earnings missed market expectations by a small margin"
+  },
+  "SUNPHARMA.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking stocks"
+  },
+  "EICHERMOT.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BPCL.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices surged due to geopolitical tensions in Ukraine"
+  },
+  "COALINDIA.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global coal prices dropped, affecting Coal India's revenue prospects"
+  },
+  "TITAN.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBIN.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India weighed on markets"
+  },
+  "DRREDDY.NS_2022-02-24": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q3 FY22 earnings missed estimates due to higher expenses"
+  },
+  "BHARTIARTL.NS_2022-02-24": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Bharti Airtel reported disappointing Q3 FY22 earnings results"
+  },
+  "GRASIM.NS_2022-02-24": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Grasim Industries reported disappointing Q3 FY22 earnings results"
+  },
+  "BAJAJFINSV.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India impacted market sentiment"
+  },
+  "HEROMOTOCO.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ICICIBANK.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government."
+  },
+  "BAJFINANCE.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government."
+  },
+  "HCLTECH.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict escalated, global markets plummeted, Indian stocks followed"
+  },
+  "WIPRO.NS_2022-02-24": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q3 FY22 earnings missed market expectations by a small margin"
+  },
+  "MARUTI.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 pandemic"
+  },
+  "BAJAJ-AUTO.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 pandemic"
+  },
+  "HINDUNILVR.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DIVISLAB.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-24"
+  },
+  "NTPC.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government."
+  },
+  "BEL.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-24"
+  },
+  "KOTAKBANK.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking stocks"
+  },
+  "POWERGRID.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over India's economic growth due to Omicron variant spread"
+  },
+  "TCS.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-24"
+  },
+  "ITC.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 pandemic"
+  },
+  "LT.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government"
+  },
+  "ONGC.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to increased supply and demand concerns"
+  },
+  "RELIANCE.NS_2022-02-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government"
+  },
+  "TRENT.NS_2022-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-02-24"
+  },
+  "DRREDDY.NS_2022-02-28": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Dr. Reddy's Laboratories reported disappointing quarterly earnings"
+  },
+  "HDFCLIFE.NS_2022-02-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCBANK.NS_2022-03-02": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India impacted market sentiment"
+  },
+  "SHRIRAMFIN.NS_2022-03-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ASIANPAINT.NS_2022-03-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-02"
+  },
+  "MARUTI.NS_2022-03-02": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global economic uncertainty and volatility"
+  },
+  "SUNPHARMA.NS_2022-03-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-02"
+  },
+  "ICICIBANK.NS_2022-03-02": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India impacted market sentiment"
+  },
+  "EICHERMOT.NS_2022-03-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HEROMOTOCO.NS_2022-03-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "GRASIM.NS_2022-03-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-02"
+  },
+  "ULTRACEMCO.NS_2022-03-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-02"
+  },
+  "BAJAJ-AUTO.NS_2022-03-02": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over COVID-19 pandemic's impact on global demand"
+  },
+  "DRREDDY.NS_2022-03-02": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q3 FY22 earnings missed estimates due to higher expenses"
+  },
+  "MARUTI.NS_2022-03-03": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global economic uncertainty and volatility"
+  },
+  "HINDUNILVR.NS_2022-03-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-03"
+  },
+  "ULTRACEMCO.NS_2022-03-03": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth slowed down due to COVID-19 pandemic impact"
+  },
+  "SBILIFE.NS_2022-03-03": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over COVID-19 cases and economic slowdown in India"
+  },
+  "GRASIM.NS_2022-03-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-03"
+  },
+  "HDFCLIFE.NS_2022-03-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-03"
+  },
+  "DRREDDY.NS_2022-03-03": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Dr. Reddy's Laboratories reported disappointing quarterly earnings"
+  },
+  "TATACONSUM.NS_2022-03-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-03"
+  },
+  "ASIANPAINT.NS_2022-03-03": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global economic uncertainty"
+  },
+  "EICHERMOT.NS_2022-03-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-03"
+  },
+  "HINDUNILVR.NS_2022-03-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ONGC.NS_2022-03-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global oil price volatility"
+  },
+  "MARUTI.NS_2022-03-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global economic uncertainty and market volatility"
+  },
+  "APOLLOHOSP.NS_2022-03-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-04"
+  },
+  "HINDALCO.NS_2022-03-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price drop due to Russia-Ukraine conflict"
+  },
+  "AXISBANK.NS_2022-03-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India led market volatility"
+  },
+  "JSWSTEEL.NS_2022-03-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over global steel demand due to COVID-19 pandemic"
+  },
+  "BAJFINANCE.NS_2022-03-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India impacted market sentiment"
+  },
+  "TITAN.NS_2022-03-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-04"
+  },
+  "TRENT.NS_2022-03-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-04"
+  },
+  "COALINDIA.NS_2022-03-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of single-day decline"
+  },
+  "BHARTIARTL.NS_2022-03-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HEROMOTOCO.NS_2022-03-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-04"
+  },
+  "EICHERMOT.NS_2022-03-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ASIANPAINT.NS_2022-03-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-04"
+  },
+  "ADANIPORTS.NS_2022-03-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCLIFE.NS_2022-03-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-07"
+  },
+  "AXISBANK.NS_2022-03-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India led market volatility"
+  },
+  "BRITANNIA.NS_2022-03-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-07"
+  },
+  "HEROMOTOCO.NS_2022-03-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDUNILVR.NS_2022-03-07": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Hindustan Unilever reported disappointing quarterly earnings"
+  },
+  "BAJAJFINSV.NS_2022-03-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India impacted markets"
+  },
+  "BAJFINANCE.NS_2022-03-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India impacted market sentiment"
+  },
+  "ICICIBANK.NS_2022-03-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict escalated, global market volatility increased"
+  },
+  "SBILIFE.NS_2022-03-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over COVID-19 cases and economic slowdown in India"
+  },
+  "ADANIENT.NS_2022-03-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-07"
+  },
+  "HDFCBANK.NS_2022-03-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict escalated, global markets experienced volatility"
+  },
+  "SHRIRAMFIN.NS_2022-03-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-07"
+  },
+  "EICHERMOT.NS_2022-03-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-07"
+  },
+  "LT.NS_2022-03-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India impacted market sentiment"
+  },
+  "RELIANCE.NS_2022-03-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict escalated, global oil prices surged"
+  },
+  "INDUSINDBK.NS_2022-03-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking stocks"
+  },
+  "BPCL.NS_2022-03-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global oil price volatility"
+  },
+  "SBIN.NS_2022-03-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India led market volatility"
+  },
+  "MARUTI.NS_2022-03-07": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Maruti Suzuki reported lower-than-expected quarterly earnings"
+  },
+  "TRENT.NS_2022-03-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-07"
+  },
+  "ULTRACEMCO.NS_2022-03-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government"
+  },
+  "HINDALCO.NS_2022-03-08": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-08"
+  },
+  "ONGC.NS_2022-03-08": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global oil price volatility"
+  },
+  "COALINDIA.NS_2022-03-10": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global coal price volatility"
+  },
+  "BEL.NS_2022-03-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-10"
+  },
+  "COALINDIA.NS_2022-03-15": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global coal price volatility"
+  },
+  "HINDALCO.NS_2022-03-15": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price drop led to Hindalco's metal prices decline"
+  },
+  "JSWSTEEL.NS_2022-03-15": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "BPCL.NS_2022-03-15": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices surged due to Russia-Ukraine conflict escalation"
+  },
+  "TATASTEEL.NS_2022-03-15": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand decline due to COVID-19 pandemic lockdowns"
+  },
+  "ONGC.NS_2022-03-15": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global oil price volatility"
+  },
+  "KOTAKBANK.NS_2022-03-15": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India impacted market sentiment"
+  },
+  "INFY.NS_2022-03-15": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q3 FY22 results missed market expectations, impacting stock price"
+  },
+  "GRASIM.NS_2022-03-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-21"
+  },
+  "ASIANPAINT.NS_2022-03-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-21"
+  },
+  "SHRIRAMFIN.NS_2022-03-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-21"
+  },
+  "SBILIFE.NS_2022-03-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-21"
+  },
+  "ULTRACEMCO.NS_2022-03-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATACONSUM.NS_2022-03-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BRITANNIA.NS_2022-03-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "POWERGRID.NS_2022-03-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-03-21"
+  },
+  "NESTLEIND.NS_2022-03-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDUNILVR.NS_2022-03-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "KOTAKBANK.NS_2022-03-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India impacted market sentiment"
+  },
+  "TITAN.NS_2022-03-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TITAN.NS_2022-03-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HEROMOTOCO.NS_2022-03-29": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global economic uncertainty and market volatility"
+  },
+  "COALINDIA.NS_2022-03-29": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ONGC.NS_2022-03-29": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global oil price volatility"
+  },
+  "JSWSTEEL.NS_2022-03-30": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "HINDALCO.NS_2022-03-30": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price drop affected Hindalco's aluminum prices significantly"
+  },
+  "ONGC.NS_2022-03-30": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global oil price volatility"
+  },
+  "DIVISLAB.NS_2022-03-31": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for specific cause of decline"
+  },
+  "HINDALCO.NS_2022-03-31": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price drop due to Russia-Ukraine conflict"
+  },
+  "HDFCBANK.NS_2022-04-05": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global market volatility and decline"
+  },
+  "HDFCBANK.NS_2022-04-06": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict escalated, global market volatility increased"
+  },
+  "ADANIPORTS.NS_2022-04-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-07"
+  },
+  "TITAN.NS_2022-04-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2022-04-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-07"
+  },
+  "TRENT.NS_2022-04-08": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HCLTECH.NS_2022-04-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "LT.NS_2022-04-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-11"
+  },
+  "INFY.NS_2022-04-11": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q4 FY22 earnings missed market expectations by a small margin"
+  },
+  "GRASIM.NS_2022-04-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-12"
+  },
+  "HINDALCO.NS_2022-04-12": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Hindalco Industries reported disappointing Q4 FY22 earnings results"
+  },
+  "TATASTEEL.NS_2022-04-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "SHRIRAMFIN.NS_2022-04-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-12"
+  },
+  "COALINDIA.NS_2022-04-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-12"
+  },
+  "TCS.NS_2022-04-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "WIPRO.NS_2022-04-18": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q4 FY22 earnings missed market expectations, causing the decline."
+  },
+  "HDFCBANK.NS_2022-04-18": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict escalated, impacting global and Indian markets"
+  },
+  "APOLLOHOSP.NS_2022-04-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INFY.NS_2022-04-18": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q4 FY22 earnings missed estimates due to higher expenses"
+  },
+  "ADANIPORTS.NS_2022-04-19": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over India's economic growth due to COVID-19 lockdowns"
+  },
+  "JSWSTEEL.NS_2022-04-19": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "HCLTECH.NS_2022-04-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INFY.NS_2022-04-19": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q4 FY22 earnings missed market expectations by a small margin"
+  },
+  "ADANIENT.NS_2022-04-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDUNILVR.NS_2022-04-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCBANK.NS_2022-04-19": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict escalated, global markets declined, impacting HDFC Bank"
+  },
+  "HDFCLIFE.NS_2022-04-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "NESTLEIND.NS_2022-04-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of single-day decline"
+  },
+  "ITC.NS_2022-04-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "CIPLA.NS_2022-04-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2022-04-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-19"
+  },
+  "TATACONSUM.NS_2022-04-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DIVISLAB.NS_2022-04-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBILIFE.NS_2022-04-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-19"
+  },
+  "BAJFINANCE.NS_2022-04-20": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted Bajaj Finance"
+  },
+  "CIPLA.NS_2022-04-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCLIFE.NS_2022-04-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-04-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity prices decline, affecting Hindalco's aluminum business"
+  },
+  "AXISBANK.NS_2022-04-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking stocks"
+  },
+  "INDUSINDBK.NS_2022-04-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBIN.NS_2022-04-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking stocks"
+  },
+  "SHRIRAMFIN.NS_2022-04-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-22"
+  },
+  "DRREDDY.NS_2022-04-22": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q4 FY22 earnings missed estimates due to weak sales"
+  },
+  "HINDUNILVR.NS_2022-04-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "GRASIM.NS_2022-04-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-22"
+  },
+  "NTPC.NS_2022-04-25": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 lockdowns"
+  },
+  "ONGC.NS_2022-04-25": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global oil price volatility"
+  },
+  "APOLLOHOSP.NS_2022-04-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TRENT.NS_2022-04-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-25"
+  },
+  "SBILIFE.NS_2022-04-25": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising COVID-19 cases in India led market volatility"
+  },
+  "TATACONSUM.NS_2022-04-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCLIFE.NS_2022-04-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BPCL.NS_2022-04-25": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global oil price surge"
+  },
+  "COALINDIA.NS_2022-04-25": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global coal prices plummeted due to Russia-Ukraine conflict easing"
+  },
+  "TATASTEEL.NS_2022-04-25": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "SUNPHARMA.NS_2022-04-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-04-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJAJFINSV.NS_2022-04-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2022-04-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-27"
+  },
+  "TATACONSUM.NS_2022-04-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJFINANCE.NS_2022-04-27": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia-Ukraine conflict led to global market volatility and decline"
+  },
+  "TRENT.NS_2022-04-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-27"
+  },
+  "COALINDIA.NS_2022-04-29": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ONGC.NS_2022-04-29": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia's invasion of Ukraine led to global oil price volatility"
+  },
+  "AXISBANK.NS_2022-04-29": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted bank stocks"
+  },
+  "POWERGRID.NS_2022-04-29": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted market sentiment"
+  },
+  "ADANIPORTS.NS_2022-04-29": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price drop affected Indian ports' cargo volumes"
+  },
+  "BEL.NS_2022-04-29": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-04-29"
+  },
+  "BAJAJ-AUTO.NS_2022-04-29": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "WIPRO.NS_2022-04-29": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q4 FY22 earnings missed market expectations, impacting stock price"
+  },
+  "ONGC.NS_2022-05-02": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to rising US crude inventories"
+  },
+  "TITAN.NS_2022-05-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "EICHERMOT.NS_2022-05-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-02"
+  },
+  "WIPRO.NS_2022-05-02": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q4 FY22 earnings missed market expectations by a small margin"
+  },
+  "APOLLOHOSP.NS_2022-05-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJAJ-AUTO.NS_2022-05-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline."
+  },
+  "DRREDDY.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-04"
+  },
+  "SHRIRAMFIN.NS_2022-05-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 lockdowns"
+  },
+  "BEL.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "RELIANCE.NS_2022-05-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices dropped, affecting Reliance's refining business"
+  },
+  "EICHERMOT.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-04"
+  },
+  "ADANIPORTS.NS_2022-05-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price drop affected Indian ports and shipping sector"
+  },
+  "TATASTEEL.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DIVISLAB.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-04"
+  },
+  "TATACONSUM.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-04"
+  },
+  "GRASIM.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-04"
+  },
+  "HEROMOTOCO.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-04"
+  },
+  "APOLLOHOSP.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-05-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity prices declined, affecting Hindalco's aluminum business"
+  },
+  "JSWSTEEL.NS_2022-05-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "HDFCBANK.NS_2022-05-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted HDFC Bank"
+  },
+  "INDUSINDBK.NS_2022-05-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Rising inflation and interest rates impacted banking sector"
+  },
+  "BHARTIARTL.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJAJ-AUTO.NS_2022-05-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising fuel prices affected Bajaj Auto"
+  },
+  "BAJAJFINSV.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "MARUTI.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TITAN.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-04"
+  },
+  "LT.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-04"
+  },
+  "AXISBANK.NS_2022-05-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government"
+  },
+  "ASIANPAINT.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-04"
+  },
+  "ADANIENT.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-04"
+  },
+  "HINDUNILVR.NS_2022-05-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJFINANCE.NS_2022-05-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down, affecting financial sector stocks"
+  },
+  "SUNPHARMA.NS_2022-05-05": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-05"
+  },
+  "TATACONSUM.NS_2022-05-05": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-05"
+  },
+  "ULTRACEMCO.NS_2022-05-05": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 lockdowns"
+  },
+  "INDUSINDBK.NS_2022-05-05": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking stocks"
+  },
+  "NESTLEIND.NS_2022-05-05": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BRITANNIA.NS_2022-05-05": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJFINANCE.NS_2022-05-06": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the RBI on 2022-05-06"
+  },
+  "EICHERMOT.NS_2022-05-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-06"
+  },
+  "DIVISLAB.NS_2022-05-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-06"
+  },
+  "BEL.NS_2022-05-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-06"
+  },
+  "GRASIM.NS_2022-05-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-06"
+  },
+  "INFY.NS_2022-05-06": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q4 FY22 earnings missed market expectations by a small margin"
+  },
+  "NESTLEIND.NS_2022-05-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "AXISBANK.NS_2022-05-06": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by RBI on 2022-05-06"
+  },
+  "WIPRO.NS_2022-05-06": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q4 FY22 earnings missed market expectations, impacting stock price"
+  },
+  "APOLLOHOSP.NS_2022-05-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-06"
+  },
+  "HDFCBANK.NS_2022-05-06": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global market volatility due to Russia-Ukraine conflict"
+  },
+  "HINDALCO.NS_2022-05-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-06"
+  },
+  "TRENT.NS_2022-05-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-06"
+  },
+  "BAJAJFINSV.NS_2022-05-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2022-05-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TRENT.NS_2022-05-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-09"
+  },
+  "NESTLEIND.NS_2022-05-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "RELIANCE.NS_2022-05-09": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global market volatility due to Russia-Ukraine conflict"
+  },
+  "HEROMOTOCO.NS_2022-05-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "COALINDIA.NS_2022-05-10": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global coal prices plummeted due to supply chain disruptions"
+  },
+  "JSWSTEEL.NS_2022-05-10": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "ADANIPORTS.NS_2022-05-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-05-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of Hindalco's single-day decline"
+  },
+  "ADANIENT.NS_2022-05-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-10"
+  },
+  "SUNPHARMA.NS_2022-05-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ONGC.NS_2022-05-10": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Russia's invasion of Ukraine led to global oil price volatility"
+  },
+  "TRENT.NS_2022-05-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATASTEEL.NS_2022-05-10": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "SHRIRAMFIN.NS_2022-05-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-11"
+  },
+  "BAJAJFINSV.NS_2022-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ICICIBANK.NS_2022-05-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global market volatility due to rising COVID-19 cases in India"
+  },
+  "TITAN.NS_2022-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2022-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-12"
+  },
+  "HDFCLIFE.NS_2022-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "NTPC.NS_2022-05-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 lockdowns"
+  },
+  "TRENT.NS_2022-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-12"
+  },
+  "INDUSINDBK.NS_2022-05-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the RBI"
+  },
+  "AXISBANK.NS_2022-05-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Rising global inflation and interest rates affected Indian banking sector"
+  },
+  "JSWSTEEL.NS_2022-05-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "TATASTEEL.NS_2022-05-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "GRASIM.NS_2022-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-12"
+  },
+  "APOLLOHOSP.NS_2022-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "KOTAKBANK.NS_2022-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HEROMOTOCO.NS_2022-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2022-05-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government"
+  },
+  "LT.NS_2022-05-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government"
+  },
+  "ADANIPORTS.NS_2022-05-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price drop affected Adani Ports' revenue expectations"
+  },
+  "BAJFINANCE.NS_2022-05-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the RBI"
+  },
+  "SBIN.NS_2022-05-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking stocks"
+  },
+  "HINDALCO.NS_2022-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBIN.NS_2022-05-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global market volatility due to Russia-Ukraine conflict"
+  },
+  "HINDALCO.NS_2022-05-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "JSWSTEEL.NS_2022-05-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "ICICIBANK.NS_2022-05-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global market volatility due to Russia-Ukraine conflict impacted Indian markets"
+  },
+  "NTPC.NS_2022-05-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity prices surged, impacting NTPC's fuel costs"
+  },
+  "ULTRACEMCO.NS_2022-05-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 lockdowns"
+  },
+  "BPCL.NS_2022-05-18": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices surged due to geopolitical tensions"
+  },
+  "POWERGRID.NS_2022-05-18": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price surge led to inflation concerns in India"
+  },
+  "ULTRACEMCO.NS_2022-05-19": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected cement demand"
+  },
+  "HINDALCO.NS_2022-05-19": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity prices decline, impacting Hindalco's aluminum business"
+  },
+  "ADANIENT.NS_2022-05-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-19"
+  },
+  "JSWSTEEL.NS_2022-05-19": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "BHARTIARTL.NS_2022-05-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "KOTAKBANK.NS_2022-05-19": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government"
+  },
+  "BAJAJFINSV.NS_2022-05-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TITAN.NS_2022-05-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "APOLLOHOSP.NS_2022-05-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2022-05-19": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the government"
+  },
+  "DIVISLAB.NS_2022-05-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-19"
+  },
+  "ADANIPORTS.NS_2022-05-19": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price drop affected Indian ports and shipping sector"
+  },
+  "TCS.NS_2022-05-19": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "TCS reported Q4 FY22 earnings that missed market expectations"
+  },
+  "WIPRO.NS_2022-05-19": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q4 FY22 earnings missed market expectations, leading to decline"
+  },
+  "TATASTEEL.NS_2022-05-19": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "HDFCLIFE.NS_2022-05-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-19"
+  },
+  "TATACONSUM.NS_2022-05-19": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Tata Consumer Products reported disappointing quarterly earnings"
+  },
+  "HCLTECH.NS_2022-05-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TRENT.NS_2022-05-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-19"
+  },
+  "INFY.NS_2022-05-19": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q4 FY22 earnings missed market expectations by a small margin"
+  },
+  "DIVISLAB.NS_2022-05-23": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q4FY22 earnings missed estimates due to lower API sales"
+  },
+  "JSWSTEEL.NS_2022-05-23": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "JSW Steel reported disappointing Q4 FY22 earnings results"
+  },
+  "ONGC.NS_2022-05-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices plummeted due to Russia-Ukraine conflict escalation"
+  },
+  "HINDALCO.NS_2022-05-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-23"
+  },
+  "ULTRACEMCO.NS_2022-05-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected cement demand"
+  },
+  "TATASTEEL.NS_2022-05-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "DIVISLAB.NS_2022-05-24": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q4FY22 earnings missed estimates due to lower API sales"
+  },
+  "ASIANPAINT.NS_2022-05-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "GRASIM.NS_2022-05-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ONGC.NS_2022-05-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (Error code: 429 - {'error': {'message': )"
+  },
+  "HCLTECH.NS_2022-05-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDUNILVR.NS_2022-05-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-05-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ASIANPAINT.NS_2022-05-25": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Asian Paints reported disappointing Q4 FY22 earnings results"
+  },
+  "APOLLOHOSP.NS_2022-05-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DIVISLAB.NS_2022-05-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-25"
+  },
+  "TCS.NS_2022-05-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2022-05-25": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price drop affected Indian ports and shipping sector"
+  },
+  "TRENT.NS_2022-05-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-05-25"
+  },
+  "LT.NS_2022-05-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2022-05-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "WIPRO.NS_2022-05-25": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q4 FY22 earnings missed market expectations by a small margin"
+  },
+  "ONGC.NS_2022-05-27": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices plummeted due to Russia-Ukraine conflict escalation"
+  },
+  "KOTAKBANK.NS_2022-05-31": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SUNPHARMA.NS_2022-05-31": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJAJ-AUTO.NS_2022-06-01": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising fuel prices affected Bajaj Auto"
+  },
+  "BRITANNIA.NS_2022-06-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "NESTLEIND.NS_2022-06-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "APOLLOHOSP.NS_2022-06-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJAJFINSV.NS_2022-06-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-06-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HEROMOTOCO.NS_2022-06-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "APOLLOHOSP.NS_2022-06-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-06-02"
+  },
+  "GRASIM.NS_2022-06-03": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Grasim Industries reported disappointing quarterly earnings results"
+  },
+  "HEROMOTOCO.NS_2022-06-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-06-03"
+  },
+  "MARUTI.NS_2022-06-03": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down in Q1 2022, impacting auto sector"
+  },
+  "CIPLA.NS_2022-06-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-06-03"
+  },
+  "ULTRACEMCO.NS_2022-06-03": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 pandemic"
+  },
+  "NTPC.NS_2022-06-03": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity prices surge, impacting NTPC's fuel costs"
+  },
+  "BPCL.NS_2022-06-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BRITANNIA.NS_2022-06-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "LT.NS_2022-06-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down to 1.6% in Q1 FY2022"
+  },
+  "TITAN.NS_2022-06-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-06-07"
+  },
+  "HINDUNILVR.NS_2022-06-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ASIANPAINT.NS_2022-06-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DRREDDY.NS_2022-06-07": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q4 FY22 earnings missed estimates due to higher expenses"
+  },
+  "BHARTIARTL.NS_2022-06-08": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATASTEEL.NS_2022-06-09": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "RELIANCE.NS_2022-06-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "KOTAKBANK.NS_2022-06-10": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the RBI"
+  },
+  "INFY.NS_2022-06-10": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q4 FY22 earnings missed estimates due to higher expenses"
+  },
+  "HINDALCO.NS_2022-06-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJFINANCE.NS_2022-06-10": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 restrictions"
+  },
+  "WIPRO.NS_2022-06-10": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q4 FY22 earnings missed market expectations by a small margin"
+  },
+  "BAJAJFINSV.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 second wave"
+  },
+  "ADANIENT.NS_2022-06-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ONGC.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices dropped due to OPEC+ production increase"
+  },
+  "SHRIRAMFIN.NS_2022-06-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price drop affected Hindalco's aluminum prices"
+  },
+  "ICICIBANK.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the RBI."
+  },
+  "BPCL.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices surged due to geopolitical tensions in June 2022"
+  },
+  "NTPC.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity prices surged, impacting NTPC's fuel costs and profitability"
+  },
+  "TATASTEEL.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "TATACONSUM.NS_2022-06-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the RBI."
+  },
+  "KOTAKBANK.NS_2022-06-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "COALINDIA.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global coal prices dropped, affecting Coal India's revenue prospects"
+  },
+  "TCS.NS_2022-06-13": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "TCS reported lower-than-expected quarterly earnings on 2022-06-09"
+  },
+  "WIPRO.NS_2022-06-13": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q4 FY22 earnings fell short of market expectations"
+  },
+  "ULTRACEMCO.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 pandemic"
+  },
+  "LT.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 second wave"
+  },
+  "ADANIPORTS.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price drop affected Indian ports' cargo volumes"
+  },
+  "BAJFINANCE.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 lockdowns"
+  },
+  "GRASIM.NS_2022-06-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-06-13"
+  },
+  "SBIN.NS_2022-06-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 lockdowns"
+  },
+  "BEL.NS_2022-06-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-06-13"
+  },
+  "INFY.NS_2022-06-13": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q4 FY22 earnings missed market expectations by a small margin"
+  },
+  "BAJAJ-AUTO.NS_2022-06-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising fuel prices impacted Bajaj Auto"
+  },
+  "ONGC.NS_2022-06-15": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to increased supply and demand concerns"
+  },
+  "HINDALCO.NS_2022-06-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity prices declined, affecting Hindalco's aluminum business"
+  },
+  "GRASIM.NS_2022-06-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATASTEEL.NS_2022-06-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "HCLTECH.NS_2022-06-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "COALINDIA.NS_2022-06-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global coal prices plummeted due to supply chain disruptions"
+  },
+  "CIPLA.NS_2022-06-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "JSWSTEEL.NS_2022-06-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "POWERGRID.NS_2022-06-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2022-06-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 pandemic"
+  },
+  "HEROMOTOCO.NS_2022-06-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2022-06-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "NTPC.NS_2022-06-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 pandemic"
+  },
+  "BEL.NS_2022-06-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "KOTAKBANK.NS_2022-06-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate was revised downward by the RBI."
+  },
+  "WIPRO.NS_2022-06-16": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q4 FY22 earnings missed market expectations, causing the decline."
+  },
+  "BHARTIARTL.NS_2022-06-16": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Bharti Airtel's Q4 FY22 earnings missed market expectations"
+  },
+  "BAJFINANCE.NS_2022-06-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJAJFINSV.NS_2022-06-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ONGC.NS_2022-06-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to OPEC+ output increase"
+  },
+  "ADANIENT.NS_2022-06-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global market volatility due to rising US inflation concerns"
+  },
+  "ULTRACEMCO.NS_2022-06-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to COVID-19 lockdowns"
+  },
+  "BPCL.NS_2022-06-17": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices surged due to geopolitical tensions"
+  },
+  "CIPLA.NS_2022-06-17": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DRREDDY.NS_2022-06-17": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TITAN.NS_2022-06-17": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Titan Company reported lower-than-expected quarterly earnings"
+  },
+  "ASIANPAINT.NS_2022-06-17": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCLIFE.NS_2022-06-17": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SUNPHARMA.NS_2022-06-17": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TRENT.NS_2022-06-17": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "WIPRO.NS_2022-06-17": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q4 FY22 earnings missed market expectations, impacting stock price"
+  },
+  "ONGC.NS_2022-06-20": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to OPEC+ output increase"
+  },
+  "COALINDIA.NS_2022-06-20": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global coal prices declined, impacting Coal India's revenue prospects"
+  },
+  "HINDALCO.NS_2022-06-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2022-06-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATASTEEL.NS_2022-06-20": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns due to COVID-19 pandemic resurgence"
+  },
+  "BEL.NS_2022-06-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2022-06-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity price drop affected Adani Ports' revenue expectations"
+  },
+  "BAJAJFINSV.NS_2022-06-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-06-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity prices decline, affecting Hindalco's aluminum business"
+  },
+  "RELIANCE.NS_2022-06-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2022-06-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down, impacting banking sector"
+  },
+  "TATASTEEL.NS_2022-06-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "HCLTECH.NS_2022-06-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATACONSUM.NS_2022-06-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "COALINDIA.NS_2022-06-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global coal prices dropped, affecting Coal India's revenue prospects"
+  },
+  "WIPRO.NS_2022-06-22": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q4 FY22 earnings missed market expectations, impacting stock price"
+  },
+  "ADANIENT.NS_2022-06-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-06-22"
+  },
+  "ONGC.NS_2022-06-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to increased supply and demand concerns"
+  },
+  "JSWSTEEL.NS_2022-06-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "TRENT.NS_2022-06-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-06-22"
+  },
+  "ASIANPAINT.NS_2022-06-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TITAN.NS_2022-06-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDUNILVR.NS_2022-06-29": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCLIFE.NS_2022-06-29": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of HDFC Life Insurance's decline"
+  },
+  "APOLLOHOSP.NS_2022-06-29": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-06-29"
+  },
+  "AXISBANK.NS_2022-06-29": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down to 8.7% in Q1 FY23"
+  },
+  "EICHERMOT.NS_2022-06-30": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "CIPLA.NS_2022-06-30": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TRENT.NS_2022-06-30": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BPCL.NS_2022-06-30": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global crude oil prices surged due to geopolitical tensions"
+  },
+  "RELIANCE.NS_2022-07-01": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global crude oil prices surged due to geopolitical tensions"
+  },
+  "POWERGRID.NS_2022-07-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ONGC.NS_2022-07-01": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices plummeted due to Russia-Ukraine conflict escalation"
+  },
+  "ONGC.NS_2022-07-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to increased supply and demand concerns"
+  },
+  "ONGC.NS_2022-07-06": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to increased supply and demand concerns"
+  },
+  "INFY.NS_2022-07-11": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q1 FY23 earnings missed market expectations, impacting stock price"
+  },
+  "HCLTECH.NS_2022-07-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BHARTIARTL.NS_2022-07-11": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Bharti Airtel reported disappointing Q1 FY2022-23 earnings"
+  },
+  "TCS.NS_2022-07-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BPCL.NS_2022-07-11": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices surged due to geopolitical tensions"
+  },
+  "EICHERMOT.NS_2022-07-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-07-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2022-07-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth slowed down, impacting banking sector"
+  },
+  "BHARTIARTL.NS_2022-07-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATASTEEL.NS_2022-07-15": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in China"
+  },
+  "POWERGRID.NS_2022-07-15": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Indian markets"
+  },
+  "RELIANCE.NS_2022-07-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INFY.NS_2022-07-26": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q1 FY23 earnings missed estimates due to higher expenses"
+  },
+  "DRREDDY.NS_2022-07-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "AXISBANK.NS_2022-07-26": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to COVID-19 pandemic"
+  },
+  "HINDUNILVR.NS_2022-07-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DRREDDY.NS_2022-07-29": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Dr. Reddy's Laboratories reported disappointing Q1 FY2023 earnings"
+  },
+  "SHRIRAMFIN.NS_2022-07-29": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SUNPHARMA.NS_2022-08-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATACONSUM.NS_2022-08-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-08-04"
+  },
+  "NTPC.NS_2022-08-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global commodity prices surged, increasing NTPC's fuel costs"
+  },
+  "HINDALCO.NS_2022-08-05": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BEL.NS_2022-08-05": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-08-05"
+  },
+  "BPCL.NS_2022-08-08": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices surged due to geopolitical tensions in the region"
+  },
+  "BAJFINANCE.NS_2022-08-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "APOLLOHOSP.NS_2022-08-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-08-12"
+  },
+  "DIVISLAB.NS_2022-08-12": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q1FY23 earnings missed estimates due to raw material cost pressures"
+  },
+  "SHRIRAMFIN.NS_2022-08-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "APOLLOHOSP.NS_2022-08-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (Error code: 429 - {'error': {'message': )"
+  },
+  "TATACONSUM.NS_2022-08-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-08-19"
+  },
+  "TRENT.NS_2022-08-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-08-19"
+  },
+  "BAJAJFINSV.NS_2022-08-19": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global market volatility due to rising US inflation concerns"
+  },
+  "INDUSINDBK.NS_2022-08-19": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Rising global interest rates and inflation concerns affected Indian banks"
+  },
+  "TRENT.NS_2022-08-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-08-22"
+  },
+  "ULTRACEMCO.NS_2022-08-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global cement demand slowdown due to economic uncertainty"
+  },
+  "TATASTEEL.NS_2022-08-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand slowdown due to China's economic slowdown"
+  },
+  "WIPRO.NS_2022-08-22": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q1 FY23 earnings fell short of market expectations"
+  },
+  "JSWSTEEL.NS_2022-08-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising inflation and interest rates"
+  },
+  "APOLLOHOSP.NS_2022-08-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJFINANCE.NS_2022-08-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Bajaj Finance"
+  },
+  "ADANIENT.NS_2022-08-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJAJFINSV.NS_2022-08-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2022-08-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "LT.NS_2022-08-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "GRASIM.NS_2022-08-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2022-08-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and recession fears impacted Indian markets"
+  },
+  "DIVISLAB.NS_2022-08-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-08-22"
+  },
+  "ASIANPAINT.NS_2022-08-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "EICHERMOT.NS_2022-08-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of single-day decline"
+  },
+  "KOTAKBANK.NS_2022-08-29": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global market volatility due to rising US inflation concerns"
+  },
+  "TCS.NS_2022-08-29": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-08-29"
+  },
+  "HCLTECH.NS_2022-08-29": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "JSWSTEEL.NS_2022-08-29": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising COVID-19 cases in India"
+  },
+  "WIPRO.NS_2022-08-29": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q1FY23 earnings missed market expectations, impacting stock price"
+  },
+  "INFY.NS_2022-08-29": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q1 FY23 earnings missed market expectations by a small margin"
+  },
+  "HINDALCO.NS_2022-09-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "RELIANCE.NS_2022-09-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ONGC.NS_2022-09-01": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to increased supply and demand concerns"
+  },
+  "BPCL.NS_2022-09-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (Error code: 429 - {'error': {'message': )"
+  },
+  "HINDALCO.NS_2022-09-08": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected metals sector"
+  },
+  "SHRIRAMFIN.NS_2022-09-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-09-09"
+  },
+  "COALINDIA.NS_2022-09-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TCS.NS_2022-09-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INFY.NS_2022-09-14": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q2FY23 earnings missed estimates, impacting stock price"
+  },
+  "HINDALCO.NS_2022-09-15": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INFY.NS_2022-09-15": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q2FY23 earnings missed market expectations, impacting stock price"
+  },
+  "CIPLA.NS_2022-09-15": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BPCL.NS_2022-09-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices surged due to geopolitical tensions in the region"
+  },
+  "HCLTECH.NS_2022-09-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2022-09-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Indian markets"
+  },
+  "HDFCLIFE.NS_2022-09-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HEROMOTOCO.NS_2022-09-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2022-09-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-09-16"
+  },
+  "GRASIM.NS_2022-09-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-09-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of Hindalco's single-day decline"
+  },
+  "TATACONSUM.NS_2022-09-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INFY.NS_2022-09-16": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q2FY23 earnings missed market expectations, impacting stock price"
+  },
+  "TCS.NS_2022-09-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "WIPRO.NS_2022-09-16": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q2FY23 earnings fell short of market expectations"
+  },
+  "NESTLEIND.NS_2022-09-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ULTRACEMCO.NS_2022-09-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global cement demand slowdown due to economic recession fears"
+  },
+  "ADANIPORTS.NS_2022-09-21": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Indian markets"
+  },
+  "ULTRACEMCO.NS_2022-09-21": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global cement demand slowdown due to economic uncertainty"
+  },
+  "INDUSINDBK.NS_2022-09-21": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Indian banks"
+  },
+  "ADANIENT.NS_2022-09-21": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global market volatility due to US Fed interest rate hike concerns"
+  },
+  "POWERGRID.NS_2022-09-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-09-22"
+  },
+  "HINDALCO.NS_2022-09-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BEL.NS_2022-09-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-09-23"
+  },
+  "INDUSINDBK.NS_2022-09-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected banking sector"
+  },
+  "AXISBANK.NS_2022-09-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Axis Bank"
+  },
+  "APOLLOHOSP.NS_2022-09-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2022-09-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "POWERGRID.NS_2022-09-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Power Grid Corp"
+  },
+  "BAJFINANCE.NS_2022-09-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2022-09-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down, impacting NBFCs like SHRIRAMFIN"
+  },
+  "BAJAJFINSV.NS_2022-09-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Bajaj Finserv"
+  },
+  "NTPC.NS_2022-09-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global energy demand concerns amid rising COVID-19 cases in India"
+  },
+  "TATACONSUM.NS_2022-09-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBIN.NS_2022-09-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Indian banks"
+  },
+  "HDFCBANK.NS_2022-09-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic uncertainty and rising interest rates affected HDFC Bank"
+  },
+  "TRENT.NS_2022-09-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-09-23"
+  },
+  "ONGC.NS_2022-09-26": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to OPEC+ output increase"
+  },
+  "ADANIPORTS.NS_2022-09-26": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and recession fears impacted Indian markets"
+  },
+  "AXISBANK.NS_2022-09-26": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic uncertainty and rising interest rates affected Indian banks"
+  },
+  "BAJAJ-AUTO.NS_2022-09-26": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Bajaj Auto"
+  },
+  "BAJFINANCE.NS_2022-09-26": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Bajaj Finance"
+  },
+  "BAJAJFINSV.NS_2022-09-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "COALINDIA.NS_2022-09-26": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global coal prices dropped, affecting Coal India's revenue prospects"
+  },
+  "INDUSINDBK.NS_2022-09-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BEL.NS_2022-09-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "RELIANCE.NS_2022-09-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "MARUTI.NS_2022-09-26": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global semiconductor shortage impacted Maruti Suzuki's production and sales"
+  },
+  "NTPC.NS_2022-09-26": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global energy demand concerns amid rising COVID-19 cases in India"
+  },
+  "HDFCLIFE.NS_2022-09-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "JSWSTEEL.NS_2022-09-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-09-26"
+  },
+  "APOLLOHOSP.NS_2022-09-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-09-26": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected metals sector"
+  },
+  "ITC.NS_2022-09-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "EICHERMOT.NS_2022-09-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATASTEEL.NS_2022-09-26": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates and recession fears"
+  },
+  "HEROMOTOCO.NS_2022-09-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-09-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ITC.NS_2022-09-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "AXISBANK.NS_2022-09-28": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic uncertainty and rising interest rates affected Axis Bank"
+  },
+  "RELIANCE.NS_2022-09-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATASTEEL.NS_2022-09-28": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand slowdown due to COVID-19 pandemic resurgence"
+  },
+  "JSWSTEEL.NS_2022-09-28": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates and inflation"
+  },
+  "ASIANPAINT.NS_2022-09-29": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDUNILVR.NS_2022-10-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2022-10-03": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global market volatility and India's economic slowdown led decline"
+  },
+  "MARUTI.NS_2022-10-03": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected auto sector"
+  },
+  "EICHERMOT.NS_2022-10-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATACONSUM.NS_2022-10-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2022-10-03": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and India's GDP growth rate concerns"
+  },
+  "TATACONSUM.NS_2022-10-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DIVISLAB.NS_2022-10-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "JSWSTEEL.NS_2022-10-11": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates and recession fears"
+  },
+  "SBILIFE.NS_2022-10-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INFY.NS_2022-10-11": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys reported lower-than-expected Q2 FY23 earnings and revenue growth"
+  },
+  "INDUSINDBK.NS_2022-10-11": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Indian banks"
+  },
+  "HINDALCO.NS_2022-10-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-10-11"
+  },
+  "EICHERMOT.NS_2022-10-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HCLTECH.NS_2022-10-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "NESTLEIND.NS_2022-10-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (Request timed out.)"
+  },
+  "TATASTEEL.NS_2022-10-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "WIPRO.NS_2022-10-13": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q2FY23 earnings fell short of market expectations"
+  },
+  "INDUSINDBK.NS_2022-10-20": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected banking sector"
+  },
+  "BAJFINANCE.NS_2022-10-21": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Bajaj Finance"
+  },
+  "BEL.NS_2022-10-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-10-21"
+  },
+  "HINDUNILVR.NS_2022-10-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDUNILVR.NS_2022-10-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "KOTAKBANK.NS_2022-10-25": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Indian banks"
+  },
+  "BAJAJFINSV.NS_2022-10-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "NESTLEIND.NS_2022-10-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2022-10-31": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "AXISBANK.NS_2022-11-01": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic uncertainty and rising interest rates affected Axis Bank"
+  },
+  "BHARTIARTL.NS_2022-11-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "APOLLOHOSP.NS_2022-11-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2022-11-03": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected metals sector"
+  },
+  "TRENT.NS_2022-11-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-11-04"
+  },
+  "DIVISLAB.NS_2022-11-07": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q2FY23 earnings missed estimates due to raw material cost pressures"
+  },
+  "DIVISLAB.NS_2022-11-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-11-09"
+  },
+  "HINDALCO.NS_2022-11-09": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected metals sector"
+  },
+  "POWERGRID.NS_2022-11-09": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Indian markets"
+  },
+  "AXISBANK.NS_2022-11-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TITAN.NS_2022-11-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available to determine the cause of decline"
+  },
+  "BAJAJFINSV.NS_2022-11-10": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic uncertainty and recession fears weighed on Indian markets"
+  },
+  "EICHERMOT.NS_2022-11-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TRENT.NS_2022-11-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-11-11"
+  },
+  "ITC.NS_2022-11-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DRREDDY.NS_2022-11-14": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Dr. Reddy's Laboratories reported disappointing Q2FY23 earnings"
+  },
+  "APOLLOHOSP.NS_2022-11-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BEL.NS_2022-11-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-11-18"
+  },
+  "ADANIENT.NS_2022-11-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2022-12-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "EICHERMOT.NS_2022-12-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-12-02"
+  },
+  "BPCL.NS_2022-12-06": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices surged due to geopolitical tensions and OPEC+ cuts"
+  },
+  "TATASTEEL.NS_2022-12-06": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates and inflation"
+  },
+  "SUNPHARMA.NS_2022-12-08": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-12-08"
+  },
+  "INFY.NS_2022-12-09": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q2FY23 earnings missed estimates, impacting stock price"
+  },
+  "HCLTECH.NS_2022-12-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TITAN.NS_2022-12-15": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DRREDDY.NS_2022-12-16": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q3FY23 earnings missed estimates, impacting investor sentiment"
+  },
+  "ADANIPORTS.NS_2022-12-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and Omicron variant concerns impacted Indian markets"
+  },
+  "BEL.NS_2022-12-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBILIFE.NS_2022-12-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-12-20"
+  },
+  "TRENT.NS_2022-12-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-12-21"
+  },
+  "ADANIPORTS.NS_2022-12-21": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and Omicron variant concerns impacted Indian markets"
+  },
+  "ADANIENT.NS_2022-12-21": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Gautam Adani's wealth surpasses Jeff Bezos, sparking regulatory scrutiny concerns"
+  },
+  "INDUSINDBK.NS_2022-12-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's GDP growth rate slowed down due to Omicron variant fears"
+  },
+  "WIPRO.NS_2022-12-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-12-23"
+  },
+  "HINDALCO.NS_2022-12-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected metals sector"
+  },
+  "HEROMOTOCO.NS_2022-12-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Could not determine. (Error code: 429 - {'error': {'message': )"
+  },
+  "RELIANCE.NS_2022-12-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic concerns and recession fears led to market volatility"
+  },
+  "SBIN.NS_2022-12-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic concerns and interest rate hike fears impacted Indian markets"
+  },
+  "TATASTEEL.NS_2022-12-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates and recession fears"
+  },
+  "BAJAJFINSV.NS_2022-12-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "EICHERMOT.NS_2022-12-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2022-12-23"
+  },
+  "COALINDIA.NS_2022-12-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global coal prices declined, affecting Coal India's revenue prospects"
+  },
+  "TRENT.NS_2022-12-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2022-12-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline."
+  },
+  "ADANIPORTS.NS_2022-12-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and Omicron variant concerns impacted Indian markets"
+  },
+  "ADANIENT.NS_2022-12-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic concerns and recession fears led to market volatility"
+  },
+  "SHRIRAMFIN.NS_2022-12-29": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "COALINDIA.NS_2023-01-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-04"
+  },
+  "HINDALCO.NS_2023-01-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-04"
+  },
+  "JSWSTEEL.NS_2023-01-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates"
+  },
+  "TRENT.NS_2023-01-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-04"
+  },
+  "BAJAJFINSV.NS_2023-01-05": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-05"
+  },
+  "BAJFINANCE.NS_2023-01-05": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee's sharp depreciation against US dollar on 2023-01-05"
+  },
+  "TCS.NS_2023-01-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-06"
+  },
+  "JSWSTEEL.NS_2023-01-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-06"
+  },
+  "BAJAJFINSV.NS_2023-01-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2023-01-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-06"
+  },
+  "EICHERMOT.NS_2023-01-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-10"
+  },
+  "ADANIENT.NS_2023-01-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-10"
+  },
+  "BHARTIARTL.NS_2023-01-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-10"
+  },
+  "BHARTIARTL.NS_2023-01-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "CIPLA.NS_2023-01-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DIVISLAB.NS_2023-01-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-11"
+  },
+  "DIVISLAB.NS_2023-01-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-01-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-01-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-19"
+  },
+  "ASIANPAINT.NS_2023-01-19": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJFINANCE.NS_2023-01-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ASIANPAINT.NS_2023-01-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-20"
+  },
+  "HINDUNILVR.NS_2023-01-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ULTRACEMCO.NS_2023-01-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee's sharp depreciation against US dollar affected cement sector"
+  },
+  "ADANIPORTS.NS_2023-01-25": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and trade tensions affected Indian ports"
+  },
+  "HDFCBANK.NS_2023-01-25": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee's sharp depreciation against US dollar on 25th January 2023"
+  },
+  "INDUSINDBK.NS_2023-01-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "CIPLA.NS_2023-01-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBIN.NS_2023-01-25": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee depreciated sharply against US dollar on 25th January 2023"
+  },
+  "BPCL.NS_2023-01-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ICICIBANK.NS_2023-01-27": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee depreciated sharply against US dollar on 2023-01-27"
+  },
+  "ADANIPORTS.NS_2023-01-27": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and trade tensions affected Indian ports"
+  },
+  "ADANIENT.NS_2023-01-27": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Reports of FPO (Follow-on Public Offer) cancellation led to sell-off"
+  },
+  "INDUSINDBK.NS_2023-01-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BEL.NS_2023-01-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBIN.NS_2023-01-27": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic concerns led to a decline in banking stocks"
+  },
+  "ONGC.NS_2023-01-27": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to OPEC+ production increase"
+  },
+  "TRENT.NS_2023-01-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-01-27"
+  },
+  "POWERGRID.NS_2023-01-30": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "JSWSTEEL.NS_2023-01-30": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BEL.NS_2023-01-30": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of single-day decline"
+  },
+  "BEL.NS_2023-02-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-01"
+  },
+  "HDFCLIFE.NS_2023-02-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBILIFE.NS_2023-02-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-01"
+  },
+  "ADANIENT.NS_2023-02-01": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Reports of FPO (Follow-on Public Offer) cancellation led to sell-off"
+  },
+  "INDUSINDBK.NS_2023-02-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-01"
+  },
+  "ADANIPORTS.NS_2023-02-01": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected Indian markets"
+  },
+  "BAJAJFINSV.NS_2023-02-01": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee's sharp depreciation against US dollar affected financial sector"
+  },
+  "SBIN.NS_2023-02-01": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee depreciated sharply against US dollar on 2023-02-01"
+  },
+  "HDFCLIFE.NS_2023-02-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-02"
+  },
+  "ADANIENT.NS_2023-02-02": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Controversy surrounding Adani Group's business dealings and regulatory scrutiny"
+  },
+  "SHRIRAMFIN.NS_2023-02-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-02"
+  },
+  "ADANIPORTS.NS_2023-02-02": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee's sharp depreciation against US dollar impacted Adani Ports"
+  },
+  "DIVISLAB.NS_2023-02-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "EICHERMOT.NS_2023-02-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of single-day decline"
+  },
+  "DIVISLAB.NS_2023-02-03": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q3FY23 earnings missed estimates due to lower API sales"
+  },
+  "DIVISLAB.NS_2023-02-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-06"
+  },
+  "JSWSTEEL.NS_2023-02-06": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates"
+  },
+  "HINDALCO.NS_2023-02-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2023-02-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATASTEEL.NS_2023-02-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand slowdown due to economic uncertainty"
+  },
+  "ITC.NS_2023-02-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-02-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-09"
+  },
+  "ADANIPORTS.NS_2023-02-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-09"
+  },
+  "HCLTECH.NS_2023-02-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-02-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-10"
+  },
+  "SHRIRAMFIN.NS_2023-02-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-10"
+  },
+  "HINDALCO.NS_2023-02-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBIN.NS_2023-02-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee depreciated against US dollar, affecting banking sector"
+  },
+  "ADANIPORTS.NS_2023-02-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee depreciated sharply against US dollar on 2023-02-13"
+  },
+  "ADANIENT.NS_2023-02-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-13"
+  },
+  "INFY.NS_2023-02-13": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q3 FY23 earnings missed market expectations, impacting stock price"
+  },
+  "NESTLEIND.NS_2023-02-17": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2023-02-17": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline."
+  },
+  "ADANIENT.NS_2023-02-17": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-17"
+  },
+  "CIPLA.NS_2023-02-20": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Cipla's Q3FY23 earnings fell short of market expectations"
+  },
+  "ADANIENT.NS_2023-02-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-02-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-02-21"
+  },
+  "ADANIENT.NS_2023-02-22": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Reports of regulatory scrutiny on Adani Group's business practices"
+  },
+  "ADANIPORTS.NS_2023-02-22": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee depreciated sharply against US dollar on 2023-02-22"
+  },
+  "BAJFINANCE.NS_2023-02-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "GRASIM.NS_2023-02-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "JSWSTEEL.NS_2023-02-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ASIANPAINT.NS_2023-02-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2023-02-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-02-27": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Reports of regulatory scrutiny on Adani Group's business practices"
+  },
+  "TATASTEEL.NS_2023-02-27": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates"
+  },
+  "BAJAJ-AUTO.NS_2023-02-27": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee depreciated sharply against US dollar on 2023-02-27"
+  },
+  "INFY.NS_2023-02-27": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q3 FY23 earnings missed market expectations, impacting stock price"
+  },
+  "CIPLA.NS_2023-02-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2023-02-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-03-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-03-09"
+  },
+  "SBILIFE.NS_2023-03-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCBANK.NS_2023-03-10": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted HDFC Bank"
+  },
+  "ADANIENT.NS_2023-03-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-03-10"
+  },
+  "EICHERMOT.NS_2023-03-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2023-03-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking stocks"
+  },
+  "BEL.NS_2023-03-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBIN.NS_2023-03-13": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking stocks"
+  },
+  "ADANIENT.NS_2023-03-14": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Reports of regulatory scrutiny on Adani Group's business practices"
+  },
+  "ADANIPORTS.NS_2023-03-14": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over global economic slowdown impacted Indian ports sector"
+  },
+  "TATASTEEL.NS_2023-03-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates"
+  },
+  "INDUSINDBK.NS_2023-03-16": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking stocks"
+  },
+  "JSWSTEEL.NS_2023-03-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2023-03-16": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-03-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-03-20"
+  },
+  "HINDALCO.NS_2023-03-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of Hindalco's single-day decline"
+  },
+  "BAJAJFINSV.NS_2023-03-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJFINANCE.NS_2023-03-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJFINANCE.NS_2023-03-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of single-day decline"
+  },
+  "ADANIENT.NS_2023-03-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TRENT.NS_2023-03-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2023-03-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2023-03-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATASTEEL.NS_2023-03-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates"
+  },
+  "BAJAJFINSV.NS_2023-03-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-03-28": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Reports of regulatory scrutiny on Adani Group's business practices"
+  },
+  "HEROMOTOCO.NS_2023-03-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TRENT.NS_2023-03-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2023-03-28": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over India's economic growth and inflation impacted Adani Ports"
+  },
+  "BPCL.NS_2023-04-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-04-03"
+  },
+  "INFY.NS_2023-04-13": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q4 FY23 earnings missed market expectations by a small margin"
+  },
+  "INFY.NS_2023-04-17": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys reported disappointing Q4 FY23 earnings, missing analyst expectations"
+  },
+  "HCLTECH.NS_2023-04-17": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "POWERGRID.NS_2023-04-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DIVISLAB.NS_2023-04-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCLIFE.NS_2023-04-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCLIFE.NS_2023-04-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCLIFE.NS_2023-04-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2023-04-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-05-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCBANK.NS_2023-05-05": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "RBI's surprise rate hike impacted banking stocks negatively"
+  },
+  "HINDALCO.NS_2023-05-05": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INDUSINDBK.NS_2023-05-05": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available for analysis on 2023-05-05"
+  },
+  "DIVISLAB.NS_2023-05-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DRREDDY.NS_2023-05-11": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q4 FY23 earnings missed estimates due to weak pharma sector"
+  },
+  "HINDALCO.NS_2023-05-11": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "LT.NS_2023-05-11": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee's sharp depreciation against US dollar impacted L&T's export earnings"
+  },
+  "HINDALCO.NS_2023-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "POWERGRID.NS_2023-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "NTPC.NS_2023-05-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to global recession fears"
+  },
+  "BPCL.NS_2023-05-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DIVISLAB.NS_2023-05-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2023-05-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-05-24": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Reports of regulatory scrutiny on Adani Group's business dealings"
+  },
+  "ONGC.NS_2023-05-29": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined, affecting ONGC's revenue prospects"
+  },
+  "KOTAKBANK.NS_2023-06-01": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee depreciated sharply against US dollar on June 1, 2023"
+  },
+  "COALINDIA.NS_2023-06-01": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global coal prices dropped, affecting Coal India's revenue prospects"
+  },
+  "BHARTIARTL.NS_2023-06-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "GRASIM.NS_2023-06-08": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "KOTAKBANK.NS_2023-06-08": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "RBI's surprise rate hike impacted banking sector, including Kotak Mahindra Bank"
+  },
+  "SUNPHARMA.NS_2023-06-08": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HEROMOTOCO.NS_2023-06-15": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-06-19": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Gautam Adani's US visa revoked amid FPI outflows"
+  },
+  "ADANIENT.NS_2023-06-23": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Reports of regulatory scrutiny on Adani Group's business practices"
+  },
+  "BPCL.NS_2023-06-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BEL.NS_2023-06-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2023-06-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2023-06-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and trade tensions affected Indian ports"
+  },
+  "EICHERMOT.NS_2023-07-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCBANK.NS_2023-07-05": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "RBI's surprise rate hike impacted banking stocks negatively"
+  },
+  "EICHERMOT.NS_2023-07-05": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "EICHERMOT.NS_2023-07-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "APOLLOHOSP.NS_2023-07-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TRENT.NS_2023-07-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2023-07-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and trade tensions affected Indian ports"
+  },
+  "SHRIRAMFIN.NS_2023-07-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "POWERGRID.NS_2023-07-07": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down due to global recession fears"
+  },
+  "HCLTECH.NS_2023-07-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TITAN.NS_2023-07-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "POWERGRID.NS_2023-07-13": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HCLTECH.NS_2023-07-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TCS.NS_2023-07-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "RELIANCE.NS_2023-07-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "INFY.NS_2023-07-21": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Infosys Q1 FY24 earnings missed market expectations, impacting stock price"
+  },
+  "HINDUNILVR.NS_2023-07-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "WIPRO.NS_2023-07-21": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q1FY24 earnings missed market expectations, impacting stock price"
+  },
+  "ITC.NS_2023-07-24": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "KOTAKBANK.NS_2023-07-24": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Indian rupee depreciated sharply against US dollar on 2023-07-24"
+  },
+  "ASIANPAINT.NS_2023-07-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATACONSUM.NS_2023-07-27": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "APOLLOHOSP.NS_2023-07-31": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "APOLLOHOSP.NS_2023-08-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HEROMOTOCO.NS_2023-08-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TRENT.NS_2023-08-01": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "POWERGRID.NS_2023-08-01": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "India's economic growth slowed down, affecting Power Grid Corp's prospects"
+  },
+  "BEL.NS_2023-08-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "NTPC.NS_2023-08-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJAJFINSV.NS_2023-08-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HEROMOTOCO.NS_2023-08-02": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATASTEEL.NS_2023-08-02": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid economic slowdown"
+  },
+  "TITAN.NS_2023-08-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBIN.NS_2023-08-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Concerns over rising inflation and interest rates impacted banking sector"
+  },
+  "BRITANNIA.NS_2023-08-07": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-08-08": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DIVISLAB.NS_2023-08-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ASIANPAINT.NS_2023-08-10": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "JSWSTEEL.NS_2023-08-14": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-08-14": {
+    "cause_category": "sector_rotation",
+    "confidence": "high",
+    "brief_reason": "Decline in Adani stocks due to sector-wide rotation in Indian markets"
+  },
+  "ADANIENT.NS_2023-08-23": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Reports of regulatory scrutiny on Adani Group's business dealings"
+  },
+  "ADANIPORTS.NS_2023-08-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and recession fears impacted Indian markets"
+  },
+  "TRENT.NS_2023-08-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-08-31": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2023-08-31": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BPCL.NS_2023-08-31": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global crude oil prices surged due to geopolitical tensions"
+  },
+  "BEL.NS_2023-09-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-09-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2023-09-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "NTPC.NS_2023-09-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected NTPC"
+  },
+  "POWERGRID.NS_2023-09-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BPCL.NS_2023-09-12": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global crude oil prices surged, impacting refining margins negatively"
+  },
+  "COALINDIA.NS_2023-09-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "JSWSTEEL.NS_2023-09-20": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand slowdown and rising raw material costs"
+  },
+  "HDFCBANK.NS_2023-09-20": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and interest rate hike concerns affected HDFC Bank"
+  },
+  "CIPLA.NS_2023-09-21": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ICICIBANK.NS_2023-09-21": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "RBI's surprise rate hike impacted banking stocks negatively"
+  },
+  "DRREDDY.NS_2023-09-22": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2023-09-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of single-day decline"
+  },
+  "DIVISLAB.NS_2023-09-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ASIANPAINT.NS_2023-09-28": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "EICHERMOT.NS_2023-10-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ONGC.NS_2023-10-03": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to increased supply and demand concerns"
+  },
+  "HINDALCO.NS_2023-10-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine cause of Hindalco Industries' single-day decline"
+  },
+  "SBIN.NS_2023-10-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and interest rate hike concerns affected Indian banks"
+  },
+  "AXISBANK.NS_2023-10-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "RBI's surprise rate hike impacted banking stocks negatively"
+  },
+  "NTPC.NS_2023-10-04": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and rising interest rates affected NTPC"
+  },
+  "SHRIRAMFIN.NS_2023-10-04": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HEROMOTOCO.NS_2023-10-09": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2023-10-09": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and interest rate hikes affected Indian markets"
+  },
+  "BAJFINANCE.NS_2023-10-18": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "WIPRO.NS_2023-10-19": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Wipro's Q2FY24 earnings missed market expectations, causing the decline."
+  },
+  "ITC.NS_2023-10-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2023-10-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2023-10-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "JSWSTEEL.NS_2023-10-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates"
+  },
+  "TATASTEEL.NS_2023-10-23": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates"
+  },
+  "ADANIENT.NS_2023-10-23": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2023-10-25": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "JSWSTEEL.NS_2023-10-26": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global steel demand concerns amid rising interest rates"
+  },
+  "ASIANPAINT.NS_2023-10-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJAJFINSV.NS_2023-10-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "NESTLEIND.NS_2023-10-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TITAN.NS_2023-10-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BAJFINANCE.NS_2023-10-26": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-11-01": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Gautam Adani's US visa revoked amid fraud allegations"
+  },
+  "BAJAJFINSV.NS_2023-11-03": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SBIN.NS_2023-11-17": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "RBI's surprise rate hike impacted banking stocks negatively"
+  },
+  "ONGC.NS_2023-11-17": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global oil prices declined due to increased supply and demand concerns"
+  },
+  "AXISBANK.NS_2023-11-17": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "RBI's surprise rate hike impacted banking stocks negatively"
+  },
+  "ADANIENT.NS_2023-11-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "CIPLA.NS_2023-11-23": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Cipla's Q2FY24 earnings fell short of market expectations"
+  },
+  "ADANIENT.NS_2023-12-06": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "DRREDDY.NS_2023-12-11": {
+    "cause_category": "earnings_miss",
+    "confidence": "high",
+    "brief_reason": "Q3FY24 earnings missed estimates due to weak pharma sales"
+  },
+  "SHRIRAMFIN.NS_2023-12-12": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIENT.NS_2023-12-20": {
+    "cause_category": "regulatory",
+    "confidence": "high",
+    "brief_reason": "Reports of regulatory scrutiny on Adani Group's business practices"
+  },
+  "SBIN.NS_2023-12-20": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and interest rate hike concerns affected Indian banks"
+  },
+  "APOLLOHOSP.NS_2023-12-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "NTPC.NS_2023-12-20": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and interest rate hike concerns affected NTPC"
+  },
+  "POWERGRID.NS_2023-12-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "TATASTEEL.NS_2023-12-20": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and recession fears impacted steel demand"
+  },
+  "HCLTECH.NS_2023-12-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "SHRIRAMFIN.NS_2023-12-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "BEL.NS_2023-12-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data available to determine the cause of decline"
+  },
+  "EICHERMOT.NS_2023-12-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "COALINDIA.NS_2023-12-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "GRASIM.NS_2023-12-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HINDALCO.NS_2023-12-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "HDFCLIFE.NS_2023-12-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  },
+  "ADANIPORTS.NS_2023-12-20": {
+    "cause_category": "macro_shock",
+    "confidence": "high",
+    "brief_reason": "Global economic slowdown and recession fears impacted Indian markets"
+  },
+  "DIVISLAB.NS_2023-12-20": {
+    "cause_category": "unknown",
+    "confidence": "low",
+    "brief_reason": "Insufficient data to determine the cause of the decline"
+  }
+}
